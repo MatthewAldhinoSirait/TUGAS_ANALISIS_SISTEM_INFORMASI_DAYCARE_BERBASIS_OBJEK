@@ -26,5 +26,5 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 # Class Diagram
 ![Class Diagram drawio](https://github.com/MatthewAldhinoSirait/TUGAS_ANALISIS_SISTEM_INFORMASI_DAYCARE_BERBASIS_OBJEK/assets/148308997/f25d344c-03d9-4c90-aa33-ad0db6264915)
 
-#ERD
+# ERD
 ![ERD drawio](https://github.com/MatthewAldhinoSirait/TUGAS_ANALISIS_SISTEM_INFORMASI_DAYCARE_BERBASIS_OBJEK/assets/148308997/9eb2d89b-15f9-4de9-81fd-9a4ab17529da)
